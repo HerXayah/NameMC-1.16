@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "NameMC",
+  "mainClass": "meow.emily.awooga.Emily",
+  "description": "This addon allows you to open Player in NameMC or to copy it.",
+  "version": 1.0,
+  "author": "liebesschwur",
+  "category": 2,
+  "icon": "https://i.imgur.com/xqEFIUK.png"
+}
