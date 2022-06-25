@@ -47,5 +47,5 @@ jobs:
         with:
           tag: ${{ steps.tag_version.outputs.new_tag }}
           name: Release ${{ steps.tag_version.outputs.new_tag }}
-          artifacts: "build/libs/OINMC.jar"
+          artifacts: "build/libs/OINMC-1.16.jar"
           token: ${{ secrets.GITHUB_TOKEN }}
